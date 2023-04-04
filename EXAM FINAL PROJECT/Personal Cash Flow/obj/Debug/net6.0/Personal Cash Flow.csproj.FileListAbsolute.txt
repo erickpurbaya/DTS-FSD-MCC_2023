@@ -1,0 +1,22 @@
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.csproj.AssemblyReference.cache
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.AssemblyInfoInputs.cache
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.AssemblyInfo.cs
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.csproj.CoreCompileInputs.cache
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\Personal Cash Flow.exe
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\Personal Cash Flow.deps.json
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\Personal Cash Flow.runtimeconfig.json
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\Personal Cash Flow.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\Personal Cash Flow.pdb
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\refint\Personal Cash Flow.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.pdb
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.genruntimeconfig.cache
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\ref\Personal Cash Flow.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FSD MCC\EXAM FINAL PROJECT\Personal Cash Flow\obj\Debug\net6.0\Personal Cash Flow.csproj.CopyComplete
